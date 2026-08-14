@@ -20,5 +20,5 @@ export function ScrollToTop() {
 
   const scrollTop = () => window.scrollTo({ top: 0, behavior: 'smooth' })
 
-  return <AnimatePresence>{visible && <motion.button initial={{ opacity: 0, scale: .8 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0, scale: .8 }} transition={{ duration: .18 }} onClick={scrollTop} aria-label="Scroll to top" className="fixed bottom-6 right-6 z-50 grid size-11 place-items-center rounded-full border border-border bg-foreground text-background shadow-xl transition-colors hover:bg-primary hover:text-primary-foreground"><ArrowUp className="size-5" /></motion.button>}</AnimatePresence>
+  return <AnimatePresence>{visible && <motion.button initial={{ opacity: 0, scale: .8 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0, scale: .8 }} transition={{ duration: .18 }} onClick={scrollTop} aria-label="Scroll to top" className="fixed bottom-6 right-6 z-50 grid size-11 place-items-center rounded-full bg-primary text-primary-foreground shadow-[0_16px_40px_-16px_color-mix(in_oklch,var(--primary)_60%,transparent)] transition-transform hover:scale-110"><ArrowUp className="size-5" /></motion.button>}</AnimatePresence>
 }
