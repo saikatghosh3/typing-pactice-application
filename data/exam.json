@@ -1,0 +1,158 @@
+[
+  {
+    "id": "beginner-quiz",
+    "title": "Beginner Fundamentals",
+    "category": "Beginner",
+    "description": "Home row, posture, and the habits that build a calm foundation.",
+    "duration": "3 min",
+    "questions": [
+      {
+        "question": "Which keys does your left index finger rest on in the home row?",
+        "options": ["F", "J", "D", "K"],
+        "answer": 0,
+        "explanation": "The left index finger rests on F; the right index finger rests on J. The small bumps help you find them without looking."
+      },
+      {
+        "question": "Where should your wrists sit while typing?",
+        "options": ["Floating, relaxed and level with the keyboard", "Pressing hard on the desk", "Resting on the keys", "Bent sharply upward"],
+        "answer": 0,
+        "explanation": "Keep wrists floating and relaxed so your fingers can move freely without strain."
+      },
+      {
+        "question": "What is the best way to build typing accuracy first?",
+        "options": ["Going slowly and staying correct", "Typing as fast as possible", "Skipping the home row", "Using only one finger"],
+        "answer": 0,
+        "explanation": "Accuracy comes first; speed is a byproduct of clean, repeated motion."
+      },
+      {
+        "question": "Where should your eyes be while typing?",
+        "options": ["On the screen", "On the keyboard", "On your fingers", "Closed"],
+        "answer": 0,
+        "explanation": "Looking at the screen builds touch-typing muscle memory instead of relying on sight."
+      },
+      {
+        "question": "What does WPM measure?",
+        "options": ["Words typed per minute", "Wrist position method", "Weight per motion", "Words practiced monthly"],
+        "answer": 0,
+        "explanation": "WPM stands for words per minute — how much clean text you type in sixty seconds."
+      }
+    ]
+  },
+  {
+    "id": "medium-quiz",
+    "title": "Technique & Rhythm",
+    "category": "Medium",
+    "description": "Pacing, rhythm, and the mental side of a steady typing session.",
+    "duration": "4 min",
+    "questions": [
+      {
+        "question": "What should you do when you make a mistake mid-sentence?",
+        "options": ["Keep moving and stay calm", "Stop and restart the whole session", "Type faster to catch up", "Ignore the keyboard entirely"],
+        "answer": 0,
+        "explanation": "A clean recovery keeps rhythm intact. Correct the error and continue without panic."
+      },
+      {
+        "question": "Which approach builds the most durable speed?",
+        "options": ["Consistent daily practice", "One long weekend session", "Random bursts with long gaps", "Only typing email"],
+        "answer": 0,
+        "explanation": "Small, consistent repetitions build muscle memory far better than rare marathon sessions."
+      },
+      {
+        "question": "What is the purpose of a typing rhythm?",
+        "options": ["Keeping a steady, even pace", "Typing in music tempo", "Hitting keys harder", "Pausing after every word"],
+        "answer": 0,
+        "explanation": "A steady rhythm smooths out hesitation and reduces errors across a session."
+      },
+      {
+        "question": "What does accuracy percentage tell you?",
+        "options": ["How many keystrokes were correct", "How fast you finished", "How long you practiced", "Which finger you used"],
+        "answer": 0,
+        "explanation": "Accuracy is the share of correct keystrokes out of everything you typed in a session."
+      },
+      {
+        "question": "When should you increase your target speed?",
+        "options": ["When accuracy stays high comfortably", "When you feel rushed", "After one fast attempt", "When the timer runs out"],
+        "answer": 0,
+        "explanation": "Raise speed only when you can hold strong accuracy — speed never outruns control."
+      }
+    ]
+  },
+  {
+    "id": "advanced-quiz",
+    "title": "Symbols, Numbers & Pro Form",
+    "category": "Advanced",
+    "description": "Punctuation, numbers, and the details that separate pros from amateurs.",
+    "duration": "5 min",
+    "questions": [
+      {
+        "question": "Which finger types the comma and less-than key?",
+        "options": ["Right middle finger", "Left pinky", "Right thumb", "Left index finger"],
+        "answer": 0,
+        "explanation": "The right middle finger reaches the comma and less-than keys from the home row."
+      },
+      {
+        "question": "How should you type a capital letter?",
+        "options": ["Hold shift with the opposite hand", "Press caps lock for every letter", "Use both thumbs on shift", "Tap the key twice"],
+        "answer": 0,
+        "explanation": "Use the shift key on the opposite hand so the typing hand never leaves its anchor."
+      },
+      {
+        "question": "What is the fastest way to type long number sequences?",
+        "options": ["Practice them deliberately until they feel familiar", "Look down at the number row", "Use the keypad for everything", "Skip numbers entirely"],
+        "answer": 0,
+        "explanation": "Deliberate, repeated practice makes numbers and symbols as automatic as letters."
+      },
+      {
+        "question": "Why do professionals practice code-like syntax?",
+        "options": ["Real work is full of symbols, paths, and brackets", "It looks impressive", "It replaces regular typing", "To earn certifications"],
+        "answer": 0,
+        "explanation": "Brackets, slashes, and punctuation appear constantly in technical work — practice the language you actually type."
+      },
+      {
+        "question": "What separates an advanced typist from a beginner?",
+        "options": ["Clean recovery from errors at speed", "Never making mistakes", "Typing without breathing", "Using all ten fingers at once"],
+        "answer": 0,
+        "explanation": "Advanced typists keep accuracy and composure even when speed and difficulty rise."
+      }
+    ]
+  },
+  {
+    "id": "speed-quiz",
+    "title": "Speed & Efficiency",
+    "category": "Speed",
+    "description": "Measure your understanding of pacing, breaks, and efficient workflows.",
+    "duration": "4 min",
+    "questions": [
+      {
+        "question": "What matters more than your raw WPM for daily work?",
+        "options": ["Consistency across real writing", "Peak burst speed", "A high score in one session", "Typing letters faster"],
+        "answer": 0,
+        "explanation": "Reliable, consistent output beats a single impressive burst for real-world work."
+      },
+      {
+        "question": "What should a warm-up session include?",
+        "options": ["A few short, easy lessons", "Immediately attempting your hardest text", "No practice at all", "Only number drills"],
+        "answer": 0,
+        "explanation": "A short warm-up eases your hands into rhythm and reduces errors in the work that follows."
+      },
+      {
+        "question": "How does error rate affect effective typing speed?",
+        "options": ["Fixing mistakes always slows you down", "Errors never matter", "Errors make you faster", "Mistakes are free"],
+        "answer": 0,
+        "explanation": "Every corrected error costs time — low error rate is what makes raw speed useful."
+      },
+      {
+        "question": "What is the best habit before a long typing block?",
+        "options": ["Setting up a clean, focused workspace", "Multitasking with another app", "Skipping breaks", "Typing in the dark"],
+        "answer": 0,
+        "explanation": "A calm, prepared environment keeps attention and posture steady for the whole session."
+      },
+      {
+        "question": "How often should you take a break during extended typing?",
+        "options": ["Every 20–30 minutes", "Every few hours", "Only when it hurts", "Never, once you start"],
+        "answer": 0,
+        "explanation": "Short, regular breaks protect your hands, eyes, and focus so the whole day stays sharp."
+      }
+    ]
+  }
+]
