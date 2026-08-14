@@ -1,0 +1,3 @@
+# Netlify SPA fallback — serve the app shell for unknown paths
+# so refreshing any client-side route works without a 404.
+/*    /index.html   200
